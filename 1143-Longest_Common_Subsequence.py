@@ -73,6 +73,6 @@ class Solution3:
                     newRow[j] = 1 + row[j+1] #keeping this pass
                 else: #mismatch
                     newRow[j] = max(row[j], newRow[j+1]) #trying to skip one character
-            row = 
+            row = newRow
           
         return row[0]

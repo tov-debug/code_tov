@@ -11,7 +11,10 @@ We build a simple graph and use a stack to spread from k to all sick nodes.
 Finally, we check if a healthy node points to a sick one- if so, we keep all nodes, otherwise we remove the sick ones.
 """
 
-
+# Graph Traversal (DFS using a Stack)
+# Time Complexity: O(N + M) - N is the number of nodes and M is the length of invocations. 
+#  We build the graph and visit each node and edge at most once.
+# Space Complexity: O(N + M) - For storing the graph (adjacency list), the 'sick' set, and the stack.
 class Solution:
     def remainingMethods(self, n: int, k: int, invocations: List[List[int]]) -> List[int]:
         sick = {k} #for keeping the sick nodes

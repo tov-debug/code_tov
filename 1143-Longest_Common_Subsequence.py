@@ -1,7 +1,7 @@
 """
 Problem Summary:
 Given 2 strings, return the length of their longest common subsequence.
-Sunsequence- a sequence that foremd from another sequence, by deleting some or no elements 
+Subsequence- a sequence that foremd from another sequence, by deleting some or no elements 
   without changing the order of the string.
 
 Approach:

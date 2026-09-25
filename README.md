@@ -17,7 +17,6 @@ Take a look and feel free to learn together.
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/)| [Python](./322-Coin_Change.py) | 🟠medium |   
 | 518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)| [Python](./518-Coin_Change2.py) | 🟠medium |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Python](./977-Squares_of_a_Sorted_Array.py) | 🟢easy |     
-
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/)| [Python](./494-Target_Sum.py) | 🟠medium |  
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/)| [Python](./75-Sort_Colors.py) | 🟠medium  |   
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Python](./509-Fibonacci_Number.py) | 🟢easy |

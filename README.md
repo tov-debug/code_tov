@@ -20,7 +20,12 @@ Take a look and feel free to learn together.
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/)| [Python](./494-Target_Sum.py) | 🟠medium |  
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/)| [Python](./75-Sort_Colors.py) | 🟠medium  |   
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Python](./509-Fibonacci_Number.py) | 🟢easy |
-|  | []()| [](./) |  |
+| 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)| [C](./371-Sum_of_Two_Integers.) | 🟠medium |
+| 3720 | [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/)| [Python](./3720-Lexicographically_Smallest_Permutation_Greater_Than_Target.py) | 🟠medium |
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)| [Python](./856-Score_of_Parentheses.py) | 🟠medium |
+| 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)| [Python](./1249-Minimum_Remove_to_Make_Valid_Parentheses.py) | 🟠medium |
+|  | []() | [](./) |  |
+
 
 
 

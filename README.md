@@ -24,7 +24,12 @@ Take a look and feel free to learn together.
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/)| [Python](./3720-Lexicographically_Smallest_Permutation_Greater_Than_Target.py) | 🟠medium |
 | 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)| [Python](./856-Score_of_Parentheses.py) | 🟠medium |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)| [Python](./1249-Minimum_Remove_to_Make_Valid_Parentheses.py) | 🟠medium |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](./32-Longest_Valid_Parentheses.py) | 🔴hard |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python](./205-Isomorphic_Strings.py) | 🟢easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./2-Add_Two_Numbers.java) | 🟠medium |
 |  | []() | [](./) |  |
+
+
 
 
 

@@ -32,7 +32,7 @@ Take a look and feel free to learn together.
 | 3302 | [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | [python](./3302-Find_the_Lexicographically_Smallest_Valid_Sequence.py) | 🟠medium |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [python](./1021-Remove_Outermost_Parentheses.py) | 🟢easy |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | [python](./3702-Longest_Subsequence_With_Non-Zero_Bitwise_XOR.py) | 🟠medium |
-| 301 | [Remove Invalid Parentheses](Remove Invalid Parentheses) | [python](./301-Remove_Invalid_Parentheses.py) | 🔴hard |
+| 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [python](./301-Remove_Invalid_Parentheses.py) | 🔴hard |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [python](./160-Intersection_of_Two_Linked_Lists.py) | 🟢easy |
 |  | []() | [](./) |  |
 

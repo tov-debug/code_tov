@@ -60,9 +60,9 @@ class Solution:
         ans = []
         valid.sort(key = lambda x: x[1])
         # by sorting the end points we guarantee to take the maximum subset with minimum length        for left,right in valid:
-            if left > end:
-                ans.append(s[left:right +1])
-                end = right
+        if left > end:
+            ans.append(s[left:right +1])
+            end = right
         
         return ans 
 

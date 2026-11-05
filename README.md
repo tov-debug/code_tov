@@ -34,8 +34,11 @@ Take a look and feel free to learn together.
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | [python](./3702-Longest_Subsequence_With_Non-Zero_Bitwise_XOR.py) | 🟠medium |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [python](./301-Remove_Invalid_Parentheses.py) | 🔴hard |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [python](./160-Intersection_of_Two_Linked_Lists.py) | 🟢easy |
+| 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Python](./3619-Count_Islands_With_Total_Value_Divisible_by_K.py) | 🟠medium |
+| 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [Python](./2492-Minimum_Score_of_a_Path_Between_Two_Cities.py) | 🟠medium |
+| 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [Python](./1926=Nearest_Exit_from_Entrance_in_Maze.py) | 🟠medium |
+| 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | [Python](./3286-Find_a_Safe_Walk_Through_a_Grid.py) | 🟠medium |
 |  | []() | [](./) |  |
-
 
 
 
